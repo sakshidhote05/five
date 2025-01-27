@@ -1,0 +1,2 @@
+FROM ubuntu/nginx
+COPY . /var/www/html
